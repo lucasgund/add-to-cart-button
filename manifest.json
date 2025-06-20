@@ -1,7 +1,7 @@
 {
   "vendor": "spro",
   "name": "add-to-cart-button",
-  "version": "0.30.2",
+  "version": "0.30.3",
   "title": "Add to Cart Button",
   "description": "A button component to add items into the shopping cart.",
   "builders": {
