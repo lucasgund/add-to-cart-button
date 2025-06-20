@@ -307,7 +307,7 @@ function AddToCartButton(props: Props) {
   return allSkuVariationsSelected ? (
     ButtonWithLabel
   ) : (
-    <Tooltip trigger="click" label={tooltipLabel}>
+    <Tooltip trigger="click" label={tooltipLabel} position="bottom">
       {ButtonWithLabel}
     </Tooltip>
   )
